@@ -5,7 +5,7 @@
 苗字と名前の最初の文字を入れ替えてみました(Fortranは英数字入力のみ対応)
 
 ### 手順(Fortran)
-1. ./ke2daira_F
+1. ./ke2daira_F を実行
 
 2. 1フレーズ目を入力(例：kusakari)
 
